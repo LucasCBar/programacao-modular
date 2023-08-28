@@ -1,0 +1,27 @@
+DESAFIO #2
+
+Data final: 23/08, 18h00
+
+Valor: 3 pontos
+
+- No repositório da disciplina, localize, baixe e estude a solução do exercício de revisão 08, feita em Java.
+
+- Resolva o exercício de revisão 09, usando Java.
+
+- Utilizando os códigos dos exercícios de revisão 08 e 09, use Java para criar uma classe Data. 
+Os objetos desta classe obedecem aos requisitos:
+
+ * Deve haver verificação de validade da data e, em caso de problemas, a data passa a ser 01/01/1900; =
+
+ * O usuário pode alterar completamente a data para outra, informando dia, mês e ano;
+
+ * Independente do ano que ela indica, a data deve saber dizer em qual dia da semana ela cairá no ano de 2024;
+
+ * A data deve conseguir ser comparada com outra data e indicar, com valor booleano, se está à frente desta outra 
+ data no calendário;
+
+ * A data deve ser retornada em uma String formatada para ser usada em outros contextos.
+
+- Crie um pequeno aplicativo principal para executar algumas operações com sua classe Data;
+
+- Faça o commit/push das soluções no seu ambiente da tarefa “DesafioJava” contendo suas respostas.
