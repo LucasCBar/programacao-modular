@@ -8,24 +8,6 @@ public class desafio2 {
         Scanner leitor = new Scanner(System.in);
         
         aplicacaoMenu();
-        
-//	    System.out.print("Digite uma data no formato DD/MM/AAAA: ");
-	//    String dataEntrada = leitor.nextLine();
-		
-	    //data1.mostrarData(data1.definirSegundaData());
-	    
-	   // data1.alterarSegundaData();
-	    
-	    //data1.mostrarData(data1.definirSegundaData());
-	    
-	    //data1.setData("19/12/2001");
-	    
-	    //data1.compararData(dataEntrada);
-	    
-	    //data1.definirSegundaData();
-	    //data1.definirSegundaData();
-	    //System.out.println(data1.definirSegundaData());
-	    
 	    
 	}
 	public static void aplicacaoMenu() {
