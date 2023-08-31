@@ -9,6 +9,11 @@ public class Data {
     public Data(String data) {
         this.data = data;
     }
+
+
+
+
+	
     
     public String getData() {
         return data;
