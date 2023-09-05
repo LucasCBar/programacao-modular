@@ -1,5 +1,7 @@
 package desafioDois;
 import java.util.Scanner;
+
+
 public class desafio2 {	
 
 	public static void main(String[] args) {
