@@ -1,12 +1,6 @@
 package desafioDois;
 import java.util.Scanner;
 
-
-
-
-
-
-
 public class Data {
 	private static Scanner scanner = new Scanner(System.in);
     private String data;
