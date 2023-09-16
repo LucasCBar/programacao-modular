@@ -9,7 +9,6 @@ package desafio_revisao;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
-
 import java.io.IOException;
 
 public class Ex12 {
